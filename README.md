@@ -1,12 +1,6 @@
 # django_zero_to_instagram
 
-장고를 이용한 인스타그램 클론 코딩입니다.
-
-강의 유튜브를 기반으로 합니다.
-
-유튜브 : https://youtu.be/M8UPyeF5DfM  
-관련 blog : https://cholol.tistory.com/547
-
+장고인스타 클론 데브옵스 유튜브버전
 ---
 
 ## 실행
@@ -16,8 +10,7 @@ python 3.7 이상 버전 설치 후
 ```
 # 가상환경 생성 
 python -m venv venv
-
-# 가상환경 실행
+#가상환경 실행
 source ./venv/Scripts/activate
 
 # 필요 package 설치
